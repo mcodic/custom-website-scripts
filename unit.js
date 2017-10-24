@@ -4,3 +4,5 @@
 // simple code for loading scripts
 // urls of other scripts
 // that's it.
+
+testScript = 'hello website script' ;
